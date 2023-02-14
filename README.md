@@ -1,1 +1,3 @@
-# pw-skill-assignment-6
+# mutipages assigment 1
+
+out put
